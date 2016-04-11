@@ -20,7 +20,11 @@ Enemy.prototype.update = function(dt) {
 Enemy.prototype.render = function() {
     ctx.drawImage(Resources.get(this.sprite), this.x, this.y);
 };
-
+var Player = function() {
+    
+    
+    this.sprite = 'images/char-boy.png';
+};
 // Now write your own player class
 // This class requires an update(), render() and
 // a handleInput() method.
