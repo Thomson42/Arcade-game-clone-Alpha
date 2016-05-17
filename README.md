@@ -9,3 +9,8 @@ How too start the game
 ===============================
 
 To play this game for yourself, Download the entire file and unzip it. Start up the index.html file with any web browser (preferably google chrome) and the game should start up immediately.
+
+Game controls
+===============================
+
+Useing the arrow keeys you're goal is to get the player character to the star. You have as many times to repeat this as you like. Refresh the browser if you want to play again.
