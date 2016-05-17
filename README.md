@@ -13,4 +13,4 @@ To play this game for yourself, Download the entire file and unzip it. Start up 
 Game controls
 ===============================
 
-Useing the arrow keeys you're goal is to get the player character to the star. You have as many times to repeat this as you like. Refresh the browser if you want to play again.
+Using the arrow keys your goal is to get the player character to the star. You have as many times to repeat this as you like. Refresh the browser if you want to play again.
